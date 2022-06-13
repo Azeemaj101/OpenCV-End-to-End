@@ -4,6 +4,7 @@
 - Download Zip file and unzip in your Desktop
 - Open This unzip folder Cmd and run there commands
 ```sh
+pip install notebook
 pip install opencv
 ```
 
